@@ -1,0 +1,18 @@
+[
+  {
+    "username": "nss-backend",
+    "password": "nss-backend-password"
+  },
+  {
+    "username": "nss-frontend",
+    "password": "nss-frontend-password"
+  },
+  {
+    "username": "dondako16",
+    "password": "$2b$10$Y5ptxUy4eOZeLPJel20FWebVzaQnKd8mHcmFiFU9w2WpxwGS7EQwW"
+  },
+  {
+    "username": "dondako17",
+    "password": "$2b$10$Xg6rMTM1irBdm.6AXtOqVuCU937e8vg46JJCrYtBjtnGd4eQH6tHW"
+  }
+]
